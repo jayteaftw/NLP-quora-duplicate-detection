@@ -1,0 +1,9 @@
+torch
+matplotlib
+sklearn
+numpy
+pandas
+tqdm
+sentence_transformers
+p_tqdm
+urllib3<2.0
